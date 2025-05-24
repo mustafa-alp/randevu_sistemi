@@ -1,0 +1,76 @@
+.sabitle{
+  position:fixed;
+  top:470px;
+  right:5px;
+}
+
+
+
+.Button-container {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end; /* Sağ tarafa yaslamak için */
+}
+.Baslik{
+  text-align: center;
+}
+
+.Scroll {
+  max-width: 150px;
+  overflow-x: auto;
+}
+
+.centered-pagination {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}
+
+/* App.css */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.content {
+  flex: 1;
+}
+
+.footer {
+  background-color: #f5f5f5;
+  padding: 2em 0;
+  margin-top: 2em;
+  text-align: center;
+  margin-top: auto;
+}
+
+
+.detay {
+  padding: 20px;
+}
+
+.detay-content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.detay-info, .detay-tani {
+  width: 45%;
+}
+
+.detay-info h2, .detay-tani h3 {
+  margin-bottom: 10px;
+}
+.ortala {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Sayfanın yüksekliği kadar */
+}
