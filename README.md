@@ -6,22 +6,21 @@ Bu proje, staj döneminde geliştirilen bir web uygulamasıdır.
 
 Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları takip edin:
 
-1. Projeyi klonlayın:
+1. Sağ üstteki **Code** butonuna tıklayın.
+2. **Download ZIP** seçeneğine tıklayın.
+3. İndirilen ZIP dosyasını bilgisayarınızda bir klasöre çıkarın.
+4. Terminal veya komut istemcisinde bu klasöre girin.
+
 ```bash
-git clone [proje-url]
+cd [proje-klasörü]
 ```
 
-2. Proje dizinine gidin:
-```bash
-cd [proje-dizini]
-```
-
-3. Gerekli bağımlılıkları yükleyin:
+5. Gerekli bağımlılıkları yükleyin:
 ```bash
 npm install
 ```
 
-4. Uygulamayı başlatın:
+6. Uygulamayı başlatın:
 ```bash
 npm start
 ```
