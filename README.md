@@ -2,7 +2,7 @@
 
 Hasta raporlarını yönetmeye yarayan React tabanlı web arayüzü. Hasta kaydı ekleme, listeleme, güncelleme, silme ve detay görüntüleme işlemlerini REST API üzerinden yapar.
 
-> **Not:** Bu repo yalnızca frontend'i içerir. Arayüz, `http://localhost:4000` adresinde çalışan bir REST API'ye bağlanır. [Backend repo linki / kısa açıklama]
+> **Not:** Bu repo yalnızca frontend'i içerir. Arayüz, `http://localhost:4000` adresinde çalışan bir REST API'ye bağlanır.
 
 
 ## Özellikler
