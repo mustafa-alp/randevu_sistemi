@@ -41,12 +41,4 @@ Uygulama varsayılan olarak [http://localhost:3000](http://localhost:3000) adres
 └── README.md         # Bu dosya
 ```
 
-## Katkıda Bulunma
-
-1. Bu depoyu fork edin
-2. Yeni bir branch oluşturun (`git checkout -b feature/amazing-feature`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Add some amazing feature'`)
-4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
-5. Pull Request oluşturun
-
 
