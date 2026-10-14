@@ -31,8 +31,6 @@ Uygulama varsayılan olarak [http://localhost:3000](http://localhost:3000) adres
 
 - React
 - Node.js
-- Express.js
-- MongoDB
 
 ## Proje Yapısı
 
